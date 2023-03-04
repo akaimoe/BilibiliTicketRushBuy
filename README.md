@@ -1,0 +1,2 @@
+# BilibiliTicketRushBuy
+bilibili会员购抢票脚本
