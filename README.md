@@ -1,2 +1,2 @@
 # BilibiliTicketRushBuy
-bilibili会员购抢票脚本
+bilibili会员购抢票脚本，使用时需自行设置目标抢购页面与抢购时间
