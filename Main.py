@@ -18,7 +18,7 @@ def Init():
 
     global Price, Session
     Session = '1'  # 场次设置：修改引号内部的数字，数字对应第选项的序号，选项序号从左到右从1开始依次排列
-    Price = '1'  # 加个设置：设置方法与场次设置一样
+    Price = '1'  # 价格设置：设置方法与场次设置一样
 
     time.sleep(1)
     print("进入购票页面成功")
