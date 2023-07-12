@@ -31,7 +31,7 @@ def Init():
     qrimg = cv2.imread('./QRcode.png')
     cv2.imshow("qrimg", qrimg)
     key = cv2.waitKey(0)
-    WebDriver.find_element(By.CLASS_NAME, "bili-mini-close").click()
+    # WebDriver.find_element(By.CLASS_NAME, "bili-mini-close").click()
 
     # print("请在10s内登录")
     # time.sleep(10)
